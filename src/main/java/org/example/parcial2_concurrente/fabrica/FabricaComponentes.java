@@ -1,4 +1,4 @@
-package org.example.parcial2_concurrente;
+package org.example.parcial2_concurrente.fabrica;
 
 import org.example.parcial2_concurrente.componentes.Bola;
 import org.example.parcial2_concurrente.componentes.Clavo;

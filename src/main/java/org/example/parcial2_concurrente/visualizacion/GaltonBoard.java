@@ -1,4 +1,4 @@
-package org.example.parcial2_concurrente;
+package org.example.parcial2_concurrente.visualizacion;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
