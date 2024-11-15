@@ -2,7 +2,6 @@ package org.example.parcial2_concurrente.servicios;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 
 @Service
@@ -23,4 +22,3 @@ public class SchedulerService {
         currentIndex = (currentIndex + 1) % productores.size();
     }
 }
-
